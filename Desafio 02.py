@@ -1,0 +1,6 @@
+print("=======Desafio 02=======")
+print("Qual a data do seu aniversário? ")
+dia = input("\n Digite o dia: ")
+mes = input("\n Digite o mês: ")
+ano = input("\n Digite o ano: ")
+print(f"A data do seu aniversário é {dia}/{mes}/{ano} correto?")
